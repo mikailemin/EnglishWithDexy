@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936328536912",
+    "project_id": "englishwithdexyy",
+    "storage_bucket": "englishwithdexyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936328536912:android:b74fa1d57f238faebac255",
+        "android_client_info": {
+          "package_name": "com.fatma.englishwitndexyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUDI7radxHJKptSPR6YTVXFjlG54d8L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
